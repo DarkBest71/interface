@@ -1,0 +1,9 @@
+{
+  "modules": { 
+    "interface": {
+      "description": "Test Interface Faciale",
+      "version": "0.4",
+      "name": "Charlie"
+    }
+  }
+}
