@@ -11,7 +11,7 @@ Set Sarah = AgentControl.Characters(SarahID)
 Sarah.MoveTo (objItem.PelsWidth/2)-310,(objItem.PelsHeight/2)-360
 Sarah.Balloon.Style = 1
 Sarah.Show
-Sarah.Speak ("Vous avez reçu un nouvel email, voici le titre de votre message, ; En direct d'AlloVoisins à Thiel sur acolin")
+Sarah.Speak ("Recherche terminÃ©e.")
 Set EndReq = Sarah.Speak("\mrk=999999999\")
 Do While Sarah.Visible=True
 Loop
